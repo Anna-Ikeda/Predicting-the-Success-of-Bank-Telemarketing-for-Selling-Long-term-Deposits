@@ -4,19 +4,22 @@ This project reproduces the methodology from an academic paper to evaluate and c
 
 ## 📁 Project Folder Structure
 
+```
 Predicting-the-Success-of-Bank-Telemarketing-for-Selling-Long-term-Deposits/
 │
 ├── Data/
-│   └── bank-additional.csv                 # Dataset (UCI Bank Marketing)
+│   └── bank-additional.csv                # Dataset (UCI Bank Marketing)
 │
 ├── Models/
-│   └── Midterm_Project_bank.ipynb          # Jupyter Notebook (ML modeling)
+│   └── Midterm_Project_bank.ipynb         # Jupyter Notebook (ML modeling)
 │
 ├── Presentation/
-│   └── Mid-term Project Presentation.pdf   # Project slide deck
+│   └── Mid-term Project Presentation.pdf  # Project slide deck
 │
-├── LICENSE                                 # License file
-└── README.md                               # Project documentation
+├── LICENSE                                # License file
+└── README.md                              # Project documentation
+```
+
 
 
 ##  Dataset
