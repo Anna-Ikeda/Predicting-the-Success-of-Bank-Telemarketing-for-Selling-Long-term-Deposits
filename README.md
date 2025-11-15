@@ -2,21 +2,22 @@
 
 This project reproduces the methodology from an academic paper to evaluate and compare **Logistic Regression** and **Decision Tree** classifiers for predicting the success of a marketing campaign using the UCI Bank Marketing Dataset.
 
-##📁 Project Folder Structure
+## 📁 Project Folder Structure
 
 Predicting-the-Success-of-Bank-Telemarketing-for-Selling-Long-term-Deposits/
 │
 ├── Data/
-│   └── bank-additional.csv                # Dataset (UCI Bank Marketing)
+│   └── bank-additional.csv                 # Dataset (UCI Bank Marketing)
 │
 ├── Models/
-│   └── Midterm_Project_bank.ipynb         # Jupyter Notebook (ML modeling)
+│   └── Midterm_Project_bank.ipynb          # Jupyter Notebook (ML modeling)
 │
 ├── Presentation/
-│   └── Mid-term Project Presentation.pdf  # Project slide deck
+│   └── Mid-term Project Presentation.pdf   # Project slide deck
 │
-├── LICENSE                                # License file
-└── README.md                              # Project documentation
+├── LICENSE                                 # License file
+└── README.md                               # Project documentation
+
 
 ##  Dataset
 - File used: 'bank-additional.csv'
