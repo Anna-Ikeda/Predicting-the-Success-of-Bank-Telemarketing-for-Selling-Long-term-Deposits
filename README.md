@@ -20,6 +20,11 @@ Predicting-the-Success-of-Bank-Telemarketing-for-Selling-Long-term-Deposits/
 └── README.md                              # Project documentation
 ```
 
+## 📄 Research Paper
+
+[Predicting the Success of Bank Telemarketing for Selling Long-term Deposits:
+An Application of Machine Learning Algorithms]
+(https://www.researchgate.net/publication/352755139_Predicting_the_Success_of_Bank_Telem[…]erm_Deposits_An_Application_of_Machine_Learning_Algorithms))
 
 
 ##  Dataset
