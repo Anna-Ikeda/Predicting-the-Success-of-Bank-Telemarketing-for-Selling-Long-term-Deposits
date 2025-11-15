@@ -32,5 +32,7 @@ Both models are evaluated using:
 - ROC Curve 
 - Confusion Matrix
 
+## Link to our Presentation
+https://www.canva.com/design/DAG4ghcmglo/MC6POLH7WbcaAwWHJDstOQ/view?utm_content=DAG4ghcmglo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6486d06992
    
    
