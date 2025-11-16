@@ -27,10 +27,10 @@ An Application of Machine Learning Algorithms]
 (https://www.researchgate.net/publication/352755139_Predicting_the_Success_of_Bank_Telem[…]erm_Deposits_An_Application_of_Machine_Learning_Algorithms))
 
 
-##  Dataset
+## 💿 Dataset
 - File used: 'bank-additional.csv'
 
-## Requirements 
+##　🙇 Requirements 
 Before running the code, make sure you have the following Python packages installed:
 - bash
 pip install pandas numpy scikit-learn matplotlib seaborn
@@ -47,7 +47,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    - Classification reports
    - Separate ROC Curves for both Logistic Regression and Decision Tree
 
-## Model evaluation metrics 
+## ✅ Model evaluation metrics 
 Both models are evaluated using:
 - Accuracy
 - Precision
@@ -57,7 +57,7 @@ Both models are evaluated using:
 - ROC Curve 
 - Confusion Matrix
 
-## Link to our Presentation
+## 🧑‍🏫 Link to our Presentation
 https://www.canva.com/design/DAG4ghcmglo/MC6POLH7WbcaAwWHJDstOQ/view?utm_content=DAG4ghcmglo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6486d06992
    
    
