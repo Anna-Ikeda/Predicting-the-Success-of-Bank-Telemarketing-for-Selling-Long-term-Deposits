@@ -30,7 +30,7 @@ An Application of Machine Learning Algorithms]
 ## 💿 Dataset
 - File used: 'bank-additional.csv'
 
-##Requirements 
+##　Requirements 
 Before running the code, make sure you have the following Python packages installed:
 - bash
 pip install pandas numpy scikit-learn matplotlib seaborn
