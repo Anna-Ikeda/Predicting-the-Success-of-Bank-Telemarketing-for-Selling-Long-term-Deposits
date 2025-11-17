@@ -39,7 +39,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 # How to run
 1. Clone this repository or download the files
 2. Open the Jupiter or Python script containing the code:
-   - classification_bank_marketing.ipynb
+   - Midterm_Project_bank.ipynb
 3. Ensure the dataset file "bank-additional.csv" is in the same directory
 4. Run the entire notebook/scrip
 5. You will see:
