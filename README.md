@@ -18,7 +18,7 @@ Predicting-the-Success-of-Bank-Telemarketing-for-Selling-Long-term-Deposits/
 │   └── online_shoppers_intention.csv      # Dataset for testing and evaluating the models  
 │                                            from the research paper
 │── Final Project Report/
-│   └── Final Project Report.pdf           # Project Report
+│   └── Final Project Report(Group4).pdf           # Project Report
 │
 ├── Models/
 │   └── Midterm_Project_bank.ipynb         # Reproducing the models from the research paper
