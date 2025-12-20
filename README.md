@@ -1,6 +1,12 @@
 # Predicting-the-Success-of-Bank-Telemarketing-for-Selling-Long-term-Deposits
 
-This project reproduces the methodology from an academic paper to evaluate and compare **Logistic Regression** and **Decision Tree** classifiers for predicting the success of a marketing campaign using the UCI Bank Marketing Dataset.
+This project reproduces the methodology from an academic paper to evaluate and compare **Logistic Regression(LR)** and **Decision Tree(DT)** classifiers for predicting the success of a marketing campaign using the UCI Bank Marketing Dataset.
+
+This project aims to extend an existing research paper by:
+- Tuning model parameters and applying SMOTE to improve performance
+- Adding and evaluating additional classification models(Support Vector Machine, K-Nearest Neighbors, and Neural Networks)
+- Testing and evaluating the performance of the original methodology(LR,DT) on different datasets
+
 
 ## 📁 Project Folder Structure
 
@@ -8,13 +14,18 @@ This project reproduces the methodology from an academic paper to evaluate and c
 Predicting-the-Success-of-Bank-Telemarketing-for-Selling-Long-term-Deposits/
 │
 ├── Data/
-│   └── bank-additional.csv                # Dataset (UCI Bank Marketing)
-│
+│   └── bank-additional.csv                # Dataset from the research paper 
+│   └── online_shoppers_intention.csv      # Dataset for testing and evaluating the models  
+│                                            from the research paper
 ├── Models/
-│   └── Midterm_Project_bank.ipynb         # Jupyter Notebook (ML modeling)
-│
+│   └── Midterm_Project_bank.ipynb         # Reproducing the models from the research paper
+│   └── Final_Project_bank.ipynb           # Tuning model parameters and adding different models 
+│   └── Final_Project_New_Dataset.ipynb    # Testing and evaluating the performance of the original
+│                                            methodology(LR,DT) on different datasets
+│         
 ├── Presentation/
-│   └── Mid-term Project Presentation.pdf  # Project slide deck
+│   └── Mid-term Project Presentation.pdf  # Mid term Project slide deck
+│   └── Final Project Presentation.pdf     # Final Project slide deck
 │
 ├── LICENSE                                # License file
 └── README.md                              # Project documentation
